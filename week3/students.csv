@@ -1,0 +1,9 @@
+student_name,gender,course_name,teacher,ects,classroom,grade,image_url
+john,male,Computer science,Guy Da Silva,30,1c,0,pic4.jpeg
+john,male,Media,Bob Hoskins,80,3b,12,pic1.jpeg
+hans,female,Math,Charles Xavier,60,2a,12,pic2.jpeg
+hans,female,Math,Charles Xavier,60,2a,12,pic2.jpeg
+john,male,Media,Bob Hoskins,80,3b,12,pic5.jpeg
+john,male,Computer science,Guy Da Silva,30,1c,0,pic5.jpeg
+bob,male,Math,Charles Xavier,60,2a,12,pic7.jpeg
+bob,male,Computer science,Guy Da Silva,30,1c,0,pic7.jpeg
