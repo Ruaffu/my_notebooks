@@ -1,5 +1,5 @@
-[GENTLEMEN OF THE CONGRESS:
-, The year that has elapsed since I last stood before you to fulfil my constitutional 
+GENTLEMEN OF THE CONGRESS:
+The year that has elapsed since I last stood before you to fulfil my constitutional 
 duty to give to the Congress from time to time information on the state of the 
 Union has been so crowded with great events, great processes, and great results 
 that I cannot hope to give you an adequate picture of its transactions or of 
@@ -11,7 +11,7 @@ have been. But some great outstanding facts are unmistakable and constitute,
 in a sense, part of the public business with which it is our duty to deal. To 
 state them is to set the stage for the legislative and executive action which 
 must grow out of them and which we have yet to shape and determine. 
-, A year ago we had sent 145,918 men overseas. Since then we have sent 1,950,513, 
+A year ago we had sent 145,918 men overseas. Since then we have sent 1,950,513, 
 an average of 162,542 each month, the number in fact rising, in May last, to 
 245,951, in June to 278,76o, in July to 307,182, and continuing to reach similar 
 figures in August and September,in August 289,57o and in September 257,438. 
@@ -21,7 +21,7 @@ extraordinary dangers of attack,-dangers which were alike strange and infinitely
 difficult to guard against. In all this movement only seven hundred and fifty-eight 
 men were lost by enemy attack,six hundred and thirty of whom were upon a single 
 English transport which was sunk near the Orkney Islands. 
-, I need not tell you what lay back of this great movement of men and material. 
+I need not tell you what lay back of this great movement of men and material. 
 It is not invidious to say that back of it lay a supporting organization of 
 the industries of the country and of all its productive activities more complete, 
 more thorough in method and effective in result, more spirited and unanimous 
@@ -32,7 +32,7 @@ resource and every executive proficiency taxed to the utmost. We were their
 pupils. But we learned quickly and acted with a promptness and a readiness of 
 cooperation that justify our great pride that we were able to serve the world 
 with unparalleled energy and quick accomplishment. 
-, But it is not the physical scale and executive efficiency of preparation, 
+But it is not the physical scale and executive efficiency of preparation, 
 supply, equipment and despatch that I would dwell upon, but the mettle and quality 
 of the officers and men we sent over and of the sailors who kept the seas, and 
 the spirit of the nation that stood behind them. No soldiers or sailors ever 
@@ -56,7 +56,7 @@ any speaks that fought" with these at St. Mihiel or Thierry. The memory of those
 days of triumphant battle will go with these fortunate men to their graves; 
 and each will have his favorite memory. "Old men forget; yet all shall be forgot, 
 but hell remember with advantages what feats he did that day!" 
-, What we all thank God for with deepest gratitude is that our men went in force 
+What we all thank God for with deepest gratitude is that our men went in force 
 into the line of battle just at the critical moment when the whole fate of the 
 world seemed to hang in the balance and threw their fresh strength into the 
 ranks of freedom in time to turn the whole tide and sweep of the fateful struggle,-turn 
@@ -64,7 +64,7 @@ it once for all, so that thenceforth it was back, back, back for their enemies,
 always back, never again forward! After that it was only a scant four months 
 before the commanders of the Central Empires knew themselves beaten; and now 
 their very empires are in liquidation! 
-, And throughout it all how fine the spirit of the nation was: what unity of 
+And throughout it all how fine the spirit of the nation was: what unity of 
 purpose, what untiring zeal! What elevation of purpose ran through all its splendid 
 display of strength, its untiring accomplishment! I have said that those of 
 us who stayed at home to do the work of organization and supply will always 
@@ -83,14 +83,14 @@ the railways, at the docks, on the sea, in every labor that was needed to sustai
 the battle lines, men have vied with each other to do their part and do it well. 
 They can look any man-at-arms in the face, and say, We also strove to win and 
 gave the best that was in us to make our fleets and armies sure of their triumph! 
-, And what shall we say of the women,-of their instant intelligence, quickening 
+And what shall we say of the women,-of their instant intelligence, quickening 
 every task that they touched; their capacity for organization and cooperation, 
 which gave their action discipline and enhanced the effectiveness of everything 
 they attempted; their aptitude at tasks to which they had. never before set 
 their hands; their utter selfsacrifice alike in what they did and in what they 
 gave? Their contribution to the great result is beyond appraisal. They have 
 added a new lustre to the annals of American womanhood. 
-, The least tribute we can pay them is to make them the equals of men in political 
+The least tribute we can pay them is to make them the equals of men in political 
 rights as they have proved themselves their equals in every field of practical 
 work they have entered, whether for themselves or for their country. These great 
 days of completed achievement would be sadly marred were we to omit that act 
@@ -101,13 +101,13 @@ world and the armies upon every front with food and everything else that we
 had that might serve the common cause. The details of such a story can never 
 be fully written, but we carry them at our hearts and thank God that we can 
 say that we are the kinsmen of such. 
-, And now we are sure of the great triumph for which every sacrifice was made. 
+And now we are sure of the great triumph for which every sacrifice was made. 
 It has come, come in its completeness, and with the pride and inspiration of 
 these days of achievement quick within us, we turn to the tasks of peace again,-a 
 peace secure against the violence of irresponsible monarchs and ambitious military 
 coteries and made ready for a new order, for new foundations of justice and 
 fair dealing. 
-, We are about to give order and organization to this peace not only for ourselves 
+We are about to give order and organization to this peace not only for ourselves 
 but for the other peoples of the world as well, so far as they will suffer us 
 to serve them. It is international justice that we seek, not domestic safety 
 merely. Our thoughts have dwelt of late upon Europe, upon Asia, upon the near 
@@ -122,7 +122,7 @@ favorable action upon that vital matter. I believe that they will feel, with
 me, that the stage of affairs is now set for such action as will be not only 
 just but generous and in the spirit of the new age upon which we have so happily 
 entered. 
-, So far as our domestic affairs are concerned the problem of our return to 
+So far as our domestic affairs are concerned the problem of our return to 
 peace is a problem of economic and industrial readjustment. That problem is 
 less serious for us than it may turn out too he for the nations which have suffered 
 the disarrangements and the losses of war longer than we. Our people, moreover, 
@@ -136,7 +136,7 @@ much counsel as to the plans that should be formed and personally conducted
 to a happy consummation, but from no quarter have I seen any general scheme 
 of "reconstruction" emerge which I thought it likely we could force our spirited 
 business men and self-reliant laborers to accept with due pliancy and obedience. 
-, While the war lasted we set up many agencies by which to direct the industries 
+While the war lasted we set up many agencies by which to direct the industries 
 of the country in the services it was necessary for them to render, by which 
 to make sure of an abundant supply of the materials needed, by which to check 
 undertakings that could for the time be dispensed with and stimulate those that 
@@ -159,7 +159,7 @@ ships are still needed to send supplies to our men overseas and to bring the
 men back as fast as the disturbed conditions on the other side of the water 
 permit; but even there restraints are being relaxed as much as possible and 
 more and more as the weeks go by 
-, Never before have there been agencies in existence in this country which knew 
+Never before have there been agencies in existence in this country which knew 
 so much of the field of supply, of labor, and of industry as the War Industries 
 Board, the War Trade Board, the Labor Department, the Food Administration, and 
 the Fuel Administration have known since their labors became thoroughly systematized; 
@@ -174,7 +174,7 @@ of return to a peace footing has moved in the three weeks since the fighting
 stopped. It promises to outrun any inquiry that may be instituted and any aid 
 that may be offered. It will not be easy to direct it any better than it will 
 direct itself. The American business man is of quick initiative. 
-, The ordinary and normal processes of private initiative will not, however, 
+The ordinary and normal processes of private initiative will not, however, 
 provide immediate employment for all of the men of our returning armies. Those 
 who are of trained capacity, those who are skilled workmen, those who have acquired 
 familiarity with established businesses, those who are ready and willing to 
@@ -188,7 +188,7 @@ works of every sort should be promptly resumed, in order that opportunities
 should be created for unskilled labor in particular, and that plans should be 
 made for such developments of our unused lands and our natural resources as 
 we have hitherto lacked stirnulation to undertake. 
-, I particularly direct your attention to the very practical plans which the 
+I particularly direct your attention to the very practical plans which the 
 Secretary of the Interior has developed in his annual report and before your 
 Committees for the reclamation of arid, swamp, and cutover lands which might, 
 if the States were willing and able to cooperate, redeem some three hundred 
@@ -207,7 +207,7 @@ It is possible in dealing with our unused land to effect a great rural and agric
 development which will afford the best sort of opportunity to men who want to 
 help themselves' and the Secretary of the Interior has thought the possible 
 methods out in a way which is worthy of your most friendly attention. 
-, I have spoken of the control which must yet for a while, perhaps for a long 
+I have spoken of the control which must yet for a while, perhaps for a long 
 long while, be exercised over shipping because of the priority of service to 
 which our forces overseas are entitled and which should also be accorded the 
 shipments which are to save recently liberated peoples from starvation and many 
@@ -229,7 +229,7 @@ as the War Trade Board the right to establish priorities of export and supply
 for the benefit of these people whom we have been so happy to assist in saving 
 from the German terror and whom we must not now thoughtlessly leave to shift 
 for themselves in a pitiless competitive market. 
-, For the steadying, and facilitation of our own domestic business readjustments 
+For the steadying, and facilitation of our own domestic business readjustments 
 nothing is more important than the immediate determination of the taxes that 
 are to be levied for 1918, 1919, and 1920. As much of the burden of taxation 
 must be lifted from business as sound methods of financing the Government will 
@@ -240,7 +240,7 @@ of serious consequence to the country to delay removing all uncertainties in
 this matter a single day longer than the right processes of debate justify. 
 It is idle to talk of successful and confident business reconstruction before 
 those uncertainties are resolved. 
-, If the war had continued it would have been necessary to raise at least eight 
+If the war had continued it would have been necessary to raise at least eight 
 billion dollars by taxation payable in the year 1919; but the war has ended 
 and I agree with the Secretary of the Treasury that it will be safe to reduce 
 the amount to six billions. An immediate rapid decline in the expenses of the 
@@ -255,7 +255,7 @@ and provision made for the retirement of the obligations of the Government which
 represent it. But these demands will of course fall much below what a continuation 
 of military operations would have entailed and six billions should suffice to 
 supply a sound foundation for the financial operations of the year. 
-, I entirely concur with the Secretary of the Treasury in recommending that 
+I entirely concur with the Secretary of the Treasury in recommending that 
 the two billions needed in addition to the four billions provided by existing 
 law be obtained from the profits which have accrued and shall accrue from war 
 contracts and distinctively war business, but that these taxes be confined to 
@@ -270,7 +270,7 @@ or prolonging. Clearly determined conditions, clearly and simply charted, are
 indispensable to the economic revival and rapid industrial development which 
 may confidently be expected if we act now andsweep all interrogation points 
 away. 
-, I take it for granted that the Congress will carry out the naval programme 
+I take it for granted that the Congress will carry out the naval programme 
 which was undertaken before we entered the war. The Secretary of the Navy has 
 submitted to your Committees for authorization that part of the programme which 
 covers the building plans of the next three years. These plans have been prepared 
@@ -279,13 +279,13 @@ not under the exceptional conditions of the war, but with the intention of adher
 to a definite method of development for the navy. I earnestly recommend the 
 uninterrupted pursuit of that policy. It would clearly be unwise for us to attempt 
 to adjust our programmes to a future world policy as yet undetermined. 
-, The question which causes me the greatest concern is the question of the policy 
+The question which causes me the greatest concern is the question of the policy 
 to be adopted towards the railroads. I frankly turn to you for counsel upon 
 it. I have no confident judgment of my own. I do not see how any thoughtful 
 man can have who knows anything of the complexity of the problem. It is a problem 
 which must be studied, studied immediately, and studied without bias or prejudice. 
 Nothing can be gained by becoming partisans of any particular plan of settlement. 
-, It was necessary that the administration of the railways should be taken over 
+It was necessary that the administration of the railways should be taken over 
 by the Government so long as the war lasted. It would have been impossible otherwise 
 to establish and carry through under a single direction the necessary priorities 
 of shipment. It would have been impossible otherwise to combine maximum production 
@@ -297,7 +297,7 @@ convenience to the public necessity; impossible to give the necessary financial
 support to the roads from the public treasury. But all these necessities have 
 now been served, and the question is, What is best for the railroads and for 
 the public in the future? 
-, Exceptional circumstances and exceptional methods of administration were not 
+Exceptional circumstances and exceptional methods of administration were not 
 needed to convince us that the railroads were not equal to the immense tasks 
 of transportation imposed upon them by the rapid and continuous development 
 of the industries of the country. We knew that already. And we knew that they 
@@ -305,7 +305,7 @@ were unequal to it partly because their full cooperation was rendered impossible
 by law and their competition made obligatory, so that it has been impossible 
 to assign to them severally the traffic which could best be carried by their 
 respective lines in the interest of expedition and national economy. 
-, We may hope, I believe, for the formal conclusion of the war by treaty by 
+We may hope, I believe, for the formal conclusion of the war by treaty by 
 the time Spring has come. The twentyone months to which the present control 
 of the railways is limited after formal proclamation of peace shall have been 
 made will run at the farthest, I take it for granted, only to the January of 
@@ -319,14 +319,14 @@ undertake them. Every approach to this difficult subject-matter of decision
 brings us face to face, therefore, with this unanswered question: What is it 
 right that we should do with the railroads, in the interest of the public and 
 in fairness to their owners? 
-, Let me say at once that I have no answer ready. The only thing that is perfectly 
+Let me say at once that I have no answer ready. The only thing that is perfectly 
 clear to me is that it is not fair either to the public or to the owners of 
 the railroads to leave the question unanswered and that it will presently become 
 my duty to relinquish control of the roads, even before the expiration of the 
 statutory period, unless there should appear some clear prospect in the meantime 
 of a legislative solution. Their release would at least produce one element 
 of a solution, namely certainty and a quick stimulation of private initiative. 
-, I believe that it will be serviceable for me to set forth as explicitly as 
+I believe that it will be serviceable for me to set forth as explicitly as 
 possible the alternative courses that lie open to our choice. We can simply 
 release the roads and go back to the old conditions of private management, unrestricted 
 competition, and multiform regulation by both state and federal authorities; 
@@ -337,7 +337,7 @@ public regulation and under such alterations of the law as will permit wasteful
 competition to be avoided and a considerable degree of unification of administration 
 to be effected, as, for example, by regional corporations under which the railways 
 of definable areas would be in effect combined in single systems. 
-, The one conclusion that I am ready to state with confidence is that it would 
+The one conclusion that I am ready to state with confidence is that it would 
 be a disservice alike to the country and to the owners of the railroads to return 
 to the old conditions unmodified. Those are conditions of restraint without 
 development. There is nothing affirmative or helpful about them. What the country 
@@ -353,14 +353,14 @@ I stand ready and anxious to release the roads from the present control and
 I must do so at a very early date if by waiting until the statutory limit of 
 time is reached I shall be merely prolonging the period of doubt and uncertainty 
 which is hurtful to every interest concerned. 
-, I welcome this occasion to announce to the Congress my purpose to join in 
+I welcome this occasion to announce to the Congress my purpose to join in 
 Paris the representatives of the governments with which we have been associated 
 in the war against the Central Empires for the purpose of discussing with them 
 the main features of the treaty of peace. I realize the great inconveniences 
 that will attend my leaving the country, particularly at this time, but the 
 conclusion that it was my paramount duty to go has been forced upon me by considerations 
 which I hope will seem as conclusive to you as they have seemed to me. 
-, The Allied governments have accepted the bases of peace which I outlined to 
+The Allied governments have accepted the bases of peace which I outlined to 
 the Congress on the eighth of January last, as the Central Empires also have, 
 and very reasonably desire my personal counsel in their interpretation and application, 
 and it is highly desirable that I should give it in order that the sincere desire 
@@ -377,7 +377,7 @@ to see to it, so far as in me lies, that no false or mistaken interpretation
 is put upon them, and no possible effort omitted to realize them. It is now 
 my duty to play my full part in making good what they offered their life's blood 
 to obtain. I can think of no call to service which could transcend this. 
-, I shall be in close touch with you and with affairs on this side the water, 
+I shall be in close touch with you and with affairs on this side the water, 
 and you will know all that I do. At my request, the French and English governments 
 have absolutely removed the censorship of cable news which until within a fortnight 
 they had maintained and there is now no censorship whatever exercised at this 
@@ -390,7 +390,7 @@ cables in order that they may be used as a single system. I did so at the advice
 of the most experienced cable officials, and I hope that the results will justify 
 my hope that the news of the next few months may pass with the utmost freedom 
 and with the least possible delay from each side of the sea to the other. 
-, May I not hope, Gentlemen of the Congress, that in the delicate tasks I shall 
+May I not hope, Gentlemen of the Congress, that in the delicate tasks I shall 
 have to perform on the other side of the sea, in my efforts truly and faithfully 
 to interpret the principles and purposes of the country we love, I may have 
 the encouragement and the added strength of your united support? I realize the 
@@ -406,4 +406,3 @@ that I am constantly in touch with the weighty matters of domestic policy with
 which we shall have to deal. I shall make my absence as brief as possible and 
 shall hope to return with the happy assurance that it has been possible to translate 
 into action the great ideals for which America has striven.
-]
